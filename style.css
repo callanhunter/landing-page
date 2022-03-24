@@ -1,0 +1,55 @@
+* {
+  text-align: center;
+  padding: 10px;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-color: honeydew;
+}
+nav {
+  position: relative;
+}
+
+ul {
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  background-color: cornsilk;
+  display: flex;
+  justify-content: center;
+  border: cadetblue 3px ridge;
+}
+
+li {
+  padding: 20px;
+  top: 0px;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 30px;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+}
+
+p {
+  font-size: 15px;
+  background-color: gainsboro;
+  border: green solid 5px;
+}
+
+div {
+  position: relative;
+  padding: 10px;
+}
+
+footer {
+  position: relative;
+  background-color: cornsilk;
+  border: cadetblue 3px ridge;
+  color: black;
+}
